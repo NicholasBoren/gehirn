@@ -1,0 +1,23 @@
+Anime
+    - cosmicPIANO - 'https://www.youtube.com/c/cosmicpiano' - Ground Truth
+    - PianoDeuss - 'https://www.youtube.com/c/@PianoDeuss/'
+    - Animenzzz - 'https://www.youtube.com/c/@Animenzzz'
+    - FonziMGM - 'https://www.youtube.com/c/@FonziMGM/'
+    - zzzAnimeonPiano - 'https://www.youtube.com/c/@zzzAnimeonPiano' - Ground Truth
+
+K-Pop
+    - https://www.youtube.com/c/@AnimeMidi - https://animemidi.wordpress.com/sheet-music-midi-files/ - Ground Truth
+    - https://www.youtube.com/c/@FreePianoTutorialsPdfMidi - https://www.freepianotutorials.net/2021/03/bts-dynamite-piano-tutorial-synthesia.html - Ground Truth
+    - https://www.youtube.com/c/@FreePianoTutorialsPdfMidi - https://www.freepianotutorials.net/search?q=blackpink - Ground Truth
+    - https://www.youtube.com/c/@JovaMusique - @JovaMusique
+    - https://www.youtube.com/c/@DooPiano- @DooPiano
+
+Indian
+    - @pragyagaur 
+    - https://www.musicnoteskada.com/category/malayalam/ - Ground Truth
+    - @AakashDesai
+    - @OnlinePianoTutorials
+
+- Game
+    - https://www.vgmusic.com/music/other/miscellaneous/piano/ - Ground Truth
+    - @AtinPiano
