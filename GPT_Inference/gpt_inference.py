@@ -4,7 +4,7 @@ from constants import GPT_API_KEY
 import time
 
 openai.api_key = GPT_API_KEY
-DATASET_FOLDER = './ground_truth'
+DATASET_FOLDER = './nerv_dataset'
 
 
 def get_responses(song_name, genre):
