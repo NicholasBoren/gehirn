@@ -36,9 +36,9 @@ def main():
     #print('Finished kpop')
     #print('Transcribing video-game')
     #filter.filter_directories(genre='video-game')
-    #basicpitch_inference.transcribe_genre_folder(genre='video-games', overwrite=True)
+    #basicpitch_inference.transcribe_genre_folder(genre='video-game', overwrite=True)
     #print('Finished video-games')
-    gpt_inference.caption_all_genre_folders(overwrite=True)
+    gpt_inference.caption_genre_folder(genre='anime', overwrite=False)
 
 if __name__ == '__main__':
     main()

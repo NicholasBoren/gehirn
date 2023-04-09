@@ -4,6 +4,7 @@ constants.py
 # Data
 data/
 nerv_dataset/
+ground_truth/
 
 # Notebook Checkpoints
 .ipynb_checkpoints/
