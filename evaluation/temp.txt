@@ -1,0 +1,10 @@
+1. Collect channel URLs for each genre
+2. Download videos and convert to MP3
+3. Collect ground truths for 20+ songs
+    - Collect time duration
+4. Perform inference with MT3
+    - Examine MIDI files (ones with sound and no-sound intros)
+    - For electronic music, the videos scraped will not only just be the song 
+    - For movie music, the ground truths are from a different source (timing will be different) so will involve manual editing
+5. Figure out automated trimming
+6. Perform evaluation
