@@ -1,0 +1,25 @@
+1. Collect channel URLs for each genre
+2. Download videos and convert to MP3
+3. Collect ground truths for 20+ songs
+    - Collect time duration
+4. Perform inference with MT3
+    - Examine MIDI files (ones with sound and no-sound intros)
+    - For electronic music, the videos scraped will not only just be the song 
+    - For movie music, the ground truths are from a different source (timing will be different) so will involve manual editing
+5. Figure out automated trimming
+6. Perform evaluation
+
+- Beware of duplicates
+- Hip-Hop and R&B needs to be separated
+- Indian evaluation folder has some non-indian songs and songs that aren't piano 
+    - /Users/huongngo/Desktop/PERSONAL PROJECTS/gehirn/evaluation/dataset/indian/Main Hoon Hero Tera | Cover | ShreyPragya
+    - /Users/huongngo/Desktop/PERSONAL PROJECTS/gehirn/evaluation/dataset/indian/Mann Mera Gajendra Verma Karaoke Lyrics Ringtone Instrumental Piano Cover #shorts #youtubeshorts
+    - /Users/huongngo/Desktop/PERSONAL PROJECTS/gehirn/evaluation/dataset/indian/Mast Nazron Se Jubin Nautiyal Karaoke Ringtone Lyrics | Instrumental 🎵 | Cover | New Song
+    - /Users/huongngo/Desktop/PERSONAL PROJECTS/gehirn/evaluation/dataset/indian/Mere Liye - Akhil Sachdeva | Broken But Beautiful 3 | Alt Balaji | Piano Tutorial | Pragya - no gt
+    - /Users/huongngo/Desktop/PERSONAL PROJECTS/gehirn/evaluation/dataset/indian/Raabta (Kehte Hain Khuda) | Piano Tutorial | Arijit Singh | Instrumental | Synthesia | Pragya - no gt
+    - /Users/huongngo/Desktop/PERSONAL PROJECTS/gehirn/evaluation/dataset/indian/Shape Of You - Ed Sheeran | Piano Tutorial | Instrumental | Synthesia | Pragya 
+    - /Users/huongngo/Desktop/PERSONAL PROJECTS/gehirn/evaluation/dataset/indian/The Humma Song
+    - /Users/huongngo/Desktop/PERSONAL PROJECTS/gehirn/evaluation/dataset/indian/Tujhe Bhoolna To Chaaha | Piano Tutorial | Jubin Nautiyal | Synthesia | Piano Cover |Pragya - no gt
+- Electronic evaluation folder:
+    - /Users/huongngo/Desktop/PERSONAL PROJECTS/gehirn/evaluation/dataset/electronic/Billie Eilish - Bad Guy Piano Cover [SHEET + MIDI]
+    - /Users/huongngo/Desktop/PERSONAL PROJECTS/gehirn/evaluation/dataset/electronic/Coffin Dance Meme Song Piano Cover + [MIDI]
