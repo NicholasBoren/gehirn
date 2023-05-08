@@ -5,6 +5,8 @@ constants.py
 data/
 nerv_dataset/
 ground_truth/
+clean_midi/
+evaluation/dataset/
 
 # Notebook Checkpoints
 .ipynb_checkpoints/
